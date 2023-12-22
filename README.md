@@ -1,1 +1,1 @@
-# Automatic_Time-tablle--Generater
+# Automatic_Time-tablle-Generater
